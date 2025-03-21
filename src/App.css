@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  padding: 24px; /* Adds padding to all four sides */
+  background-image: url("https://images.unsplash.com/photo-1557426272-fc759fdf7a8d");
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .App-logo {
