@@ -2,7 +2,7 @@ import React from "react";
 import { Tabs, Typography, Layout } from "antd";
 import TaskTable from "../Components/UserTaskList";
 import UserCard from "../Components/CompletedUsersList";
-import "./Layout.css"; // Import styles
+import "./Layout.css";
 
 const { Content, Header } = Layout;
 const { Title } = Typography;

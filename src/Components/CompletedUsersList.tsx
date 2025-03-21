@@ -27,9 +27,9 @@ const CompletedUsersList = () => {
             title={`User ID: ${user.id} - ${user.name || "Not Provided"}`}
             style={{
               width: 300,
-              backgroundColor: "#f5f5f5", // Light gray background
-              borderRadius: "10px", // Rounded corners
-              boxShadow: "0px 4px 10px rgba(0, 0, 0, 0.1)", // Soft shadow
+              backgroundColor: "#f5f5f5",
+              borderRadius: "10px",
+              boxShadow: "0px 4px 10px rgba(0, 0, 0, 0.1)",
               padding: "15px",
             }}
           >
